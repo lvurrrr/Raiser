@@ -1,0 +1,6 @@
+chmod +x raiser.sh
+./raiser.sh   
+
+Then 
+
+sudo bash ./raiser.sh
